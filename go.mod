@@ -12,7 +12,7 @@ require (
 	github.com/ipfs/go-block-format v0.0.3
 	github.com/ipfs/go-blockservice v0.2.1
 	github.com/ipfs/go-cid v0.0.7
-	github.com/ipfs/go-cidutil v0.0.2
+	github.com/ipfs/go-cidutil v0.1.0
 	github.com/ipfs/go-ds-flatfs v0.5.1
 	github.com/ipfs/go-ipfs-blockstore v1.2.0
 	github.com/ipfs/go-ipfs-chunker v0.0.5
@@ -20,7 +20,7 @@ require (
 	github.com/ipfs/go-ipld-cbor v0.0.6
 	github.com/ipfs/go-ipld-format v0.2.0
 	github.com/ipfs/go-log v1.0.5
-	github.com/ipfs/go-merkledag v0.5.1
+	github.com/ipfs/go-merkledag v0.7.0
 	github.com/ipfs/go-unixfs v0.2.5
 	github.com/labstack/echo/v4 v4.6.1
 	github.com/libp2p/go-buffer-pool v0.0.2
