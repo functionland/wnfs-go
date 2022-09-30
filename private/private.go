@@ -20,9 +20,9 @@ import (
 	cbornode "github.com/ipfs/go-ipld-cbor"
 	golog "github.com/ipfs/go-log"
 	multihash "github.com/multiformats/go-multihash"
-	base "github.com/qri-io/wnfs-go/base"
-	ratchet "github.com/qri-io/wnfs-go/private/ratchet"
-	public "github.com/qri-io/wnfs-go/public"
+	base "github.com/functionland/wnfs-go/base"
+	ratchet "github.com/functionland/wnfs-go/private/ratchet"
+	public "github.com/functionland/wnfs-go/public"
 )
 
 var log = golog.Logger("wnfs")

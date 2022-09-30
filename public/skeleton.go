@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 
 	cid "github.com/ipfs/go-cid"
-	"github.com/qri-io/wnfs-go/base"
+	"github.com/functionland/wnfs-go/base"
 )
 
 type SkeletonSource interface {

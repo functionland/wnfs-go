@@ -12,10 +12,10 @@ import (
 	cid "github.com/ipfs/go-cid"
 	flatfs "github.com/ipfs/go-ds-flatfs"
 	blockstore "github.com/ipfs/go-ipfs-blockstore"
-	wnfs "github.com/qri-io/wnfs-go"
-	private "github.com/qri-io/wnfs-go/private"
-	ratchet "github.com/qri-io/wnfs-go/private/ratchet"
-	public "github.com/qri-io/wnfs-go/public"
+	wnfs "github.com/functionland/wnfs-go"
+	private "github.com/functionland/wnfs-go/private"
+	ratchet "github.com/functionland/wnfs-go/private/ratchet"
+	public "github.com/functionland/wnfs-go/public"
 )
 
 const (

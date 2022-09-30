@@ -10,9 +10,9 @@ import (
 	"time"
 
 	"github.com/dustin/go-humanize"
-	"github.com/qri-io/wnfs-go"
-	"github.com/qri-io/wnfs-go/base"
-	"github.com/qri-io/wnfs-go/fsdiff"
+	"github.com/functionland/wnfs-go"
+	"github.com/functionland/wnfs-go/base"
+	"github.com/functionland/wnfs-go/fsdiff"
 )
 
 //go:embed templates

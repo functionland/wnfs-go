@@ -20,11 +20,11 @@ import (
 	balanced "github.com/ipfs/go-unixfs/importer/balanced"
 	ihelper "github.com/ipfs/go-unixfs/importer/helpers"
 	mh "github.com/multiformats/go-multihash"
-	base "github.com/qri-io/wnfs-go/base"
-	cipherchunker "github.com/qri-io/wnfs-go/private/cipherchunker"
-	cipherfile "github.com/qri-io/wnfs-go/private/cipherfile"
-	ratchet "github.com/qri-io/wnfs-go/private/ratchet"
-	public "github.com/qri-io/wnfs-go/public"
+	base "github.com/functionland/wnfs-go/base"
+	cipherchunker "github.com/functionland/wnfs-go/private/cipherchunker"
+	cipherfile "github.com/functionland/wnfs-go/private/cipherfile"
+	ratchet "github.com/functionland/wnfs-go/private/ratchet"
+	public "github.com/functionland/wnfs-go/public"
 	cbg "github.com/whyrusleeping/cbor-gen"
 )
 

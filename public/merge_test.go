@@ -4,7 +4,7 @@ import (
 	"context"
 	"testing"
 
-	base "github.com/qri-io/wnfs-go/base"
+	base "github.com/functionland/wnfs-go/base"
 	assert "github.com/stretchr/testify/assert"
 	require "github.com/stretchr/testify/require"
 )

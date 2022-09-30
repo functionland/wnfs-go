@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"time"
 
-	base "github.com/qri-io/wnfs-go/base"
+	base "github.com/functionland/wnfs-go/base"
 )
 
 func Merge(ctx context.Context, a, b base.Node) (result base.MergeResult, err error) {

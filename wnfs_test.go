@@ -12,11 +12,11 @@ import (
 
 	cmp "github.com/google/go-cmp/cmp"
 	golog "github.com/ipfs/go-log"
-	base "github.com/qri-io/wnfs-go/base"
-	mockblocks "github.com/qri-io/wnfs-go/mockblocks"
-	private "github.com/qri-io/wnfs-go/private"
-	ratchet "github.com/qri-io/wnfs-go/private/ratchet"
-	public "github.com/qri-io/wnfs-go/public"
+	base "github.com/functionland/wnfs-go/base"
+	mockblocks "github.com/functionland/wnfs-go/mockblocks"
+	private "github.com/functionland/wnfs-go/private"
+	ratchet "github.com/functionland/wnfs-go/private/ratchet"
+	public "github.com/functionland/wnfs-go/public"
 	"github.com/stretchr/testify/assert"
 	require "github.com/stretchr/testify/require"
 )

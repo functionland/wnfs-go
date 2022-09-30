@@ -10,8 +10,8 @@ import (
 	cmpopts "github.com/google/go-cmp/cmp/cmpopts"
 	cid "github.com/ipfs/go-cid"
 	golog "github.com/ipfs/go-log"
-	base "github.com/qri-io/wnfs-go/base"
-	mockblocks "github.com/qri-io/wnfs-go/mockblocks"
+	base "github.com/functionland/wnfs-go/base"
+	mockblocks "github.com/functionland/wnfs-go/mockblocks"
 	assert "github.com/stretchr/testify/assert"
 	require "github.com/stretchr/testify/require"
 )

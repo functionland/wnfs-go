@@ -9,8 +9,8 @@ import (
 	"sync"
 
 	cid "github.com/ipfs/go-cid"
-	"github.com/qri-io/wnfs-go/base"
-	ratchet "github.com/qri-io/wnfs-go/private/ratchet"
+	"github.com/functionland/wnfs-go/base"
+	ratchet "github.com/functionland/wnfs-go/private/ratchet"
 )
 
 var EmptyKey = Key([32]byte{})

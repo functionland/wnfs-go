@@ -18,7 +18,7 @@ import (
 	ihelper "github.com/ipfs/go-unixfs/importer/helpers"
 	unixfsio "github.com/ipfs/go-unixfs/io"
 	multihash "github.com/multiformats/go-multihash"
-	base "github.com/qri-io/wnfs-go/base"
+	base "github.com/functionland/wnfs-go/base"
 )
 
 // Store is a store of Content-Addressed block data indexed by merkle

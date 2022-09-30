@@ -5,8 +5,8 @@ import (
 	"errors"
 	"fmt"
 
-	base "github.com/qri-io/wnfs-go/base"
-	ratchet "github.com/qri-io/wnfs-go/private/ratchet"
+	base "github.com/functionland/wnfs-go/base"
+	ratchet "github.com/functionland/wnfs-go/private/ratchet"
 )
 
 func Merge(ctx context.Context, aNode, bNode base.Node) (result base.MergeResult, err error) {

@@ -16,7 +16,7 @@ import (
 	cid "github.com/ipfs/go-cid"
 	cbornode "github.com/ipfs/go-ipld-cbor"
 	golog "github.com/ipfs/go-log"
-	base "github.com/qri-io/wnfs-go/base"
+	base "github.com/functionland/wnfs-go/base"
 )
 
 var log = golog.Logger("wnfs")

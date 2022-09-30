@@ -8,9 +8,9 @@ import (
 	"github.com/ipfs/go-cid"
 	golog "github.com/ipfs/go-log"
 	"github.com/labstack/echo/v4"
-	"github.com/qri-io/wnfs-go"
-	"github.com/qri-io/wnfs-go/base"
-	"github.com/qri-io/wnfs-go/fsdiff"
+	"github.com/functionland/wnfs-go"
+	"github.com/functionland/wnfs-go/base"
+	"github.com/functionland/wnfs-go/fsdiff"
 )
 
 var log = golog.Logger("gateway")

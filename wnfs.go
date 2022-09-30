@@ -14,10 +14,10 @@ import (
 	cid "github.com/ipfs/go-cid"
 	cbornode "github.com/ipfs/go-ipld-cbor"
 	golog "github.com/ipfs/go-log"
-	base "github.com/qri-io/wnfs-go/base"
-	private "github.com/qri-io/wnfs-go/private"
-	ratchet "github.com/qri-io/wnfs-go/private/ratchet"
-	public "github.com/qri-io/wnfs-go/public"
+	base "github.com/functionland/wnfs-go/base"
+	private "github.com/functionland/wnfs-go/private"
+	ratchet "github.com/functionland/wnfs-go/private/ratchet"
+	public "github.com/functionland/wnfs-go/public"
 )
 
 var log = golog.Logger("wnfs")

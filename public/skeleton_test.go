@@ -6,7 +6,7 @@ import (
 
 	"github.com/google/go-cmp/cmp"
 	"github.com/ipfs/go-cid"
-	base "github.com/qri-io/wnfs-go/base"
+	base "github.com/functionland/wnfs-go/base"
 )
 
 func TestSkeletonCBOR(t *testing.T) {

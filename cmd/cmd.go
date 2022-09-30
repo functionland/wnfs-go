@@ -15,11 +15,11 @@ import (
 	cid "github.com/ipfs/go-cid"
 	cbornode "github.com/ipfs/go-ipld-cbor"
 	golog "github.com/ipfs/go-log"
-	wnfs "github.com/qri-io/wnfs-go"
-	base "github.com/qri-io/wnfs-go/base"
-	fsdiff "github.com/qri-io/wnfs-go/fsdiff"
-	gateway "github.com/qri-io/wnfs-go/gateway"
-	public "github.com/qri-io/wnfs-go/public"
+	wnfs "github.com/functionland/wnfs-go"
+	base "github.com/functionland/wnfs-go/base"
+	fsdiff "github.com/functionland/wnfs-go/fsdiff"
+	gateway "github.com/functionland/wnfs-go/gateway"
+	public "github.com/functionland/wnfs-go/public"
 	cli "github.com/urfave/cli/v2"
 )
 
