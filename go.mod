@@ -1,4 +1,4 @@
-module github.com/qri-io/wnfs-go
+module github.com/functionland/wnfs-go
 
 go 1.16
 
