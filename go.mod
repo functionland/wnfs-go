@@ -1,8 +1,6 @@
 module github.com/functionland/wnfs-go
 
-go 1.16
-
-replace github.com/ipfs/go-ipld-cbor => ./go-ipld-cbor
+go 1.19
 
 require (
 	github.com/dustin/go-humanize v1.0.0
@@ -16,10 +14,10 @@ require (
 	github.com/ipfs/go-cid v0.0.7
 	github.com/ipfs/go-cidutil v0.0.2
 	github.com/ipfs/go-ds-flatfs v0.5.1
-	github.com/ipfs/go-ipfs-blockstore v1.1.1
+	github.com/ipfs/go-ipfs-blockstore v1.2.0
 	github.com/ipfs/go-ipfs-chunker v0.0.5
 	github.com/ipfs/go-ipfs-files v0.0.8
-	github.com/ipfs/go-ipld-cbor v0.0.5
+	github.com/ipfs/go-ipld-cbor v0.0.6
 	github.com/ipfs/go-ipld-format v0.2.0
 	github.com/ipfs/go-log v1.0.5
 	github.com/ipfs/go-merkledag v0.5.1
